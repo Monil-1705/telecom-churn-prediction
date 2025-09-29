@@ -38,5 +38,6 @@ This project focuses on predicting **customer churn** in the telecom industry us
 ---
 
 👨‍💻 **Author:** Monil Panchal  
-📎 **LinkedIn:** www.linkedin.com/in/monil-panchal-680852242-gec-ldce-it-dte
+📎 **LinkedIn:** www.linkedin.com/in/monil-panchal-680852242-gec-ldce-it-dte   
 📎 **GitHub:** https://github.com/Monil-1705
+
